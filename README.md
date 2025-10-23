@@ -1,6 +1,8 @@
 ````markdown
 # 🛒 E-Ticaret Destek Chatbot (Gemini RAG)
 
+**[➡️ CANLI DEMOYU DENEMEK İÇİN TIKLAYIN ⬅️](https://0khenaton-gemini-ecommerce-chatbot.streamlit.app)**
+
 Bu proje, Google'ın en güncel `gemini-2.5-flash` modelini ve RAG (Retrieval-Augmented Generation) tekniğini kullanarak oluşturulmuş, Streamlit tabanlı bir e-ticaret destek asistanıdır.
 
 Chatbot, `data` klasöründeki özel CSV veritabanını kullanarak "iade, sipariş, kargo" gibi spesifik sorulara bağlamdan cevap verir. Eğer cevap veritabanında yoksa, genel bilgisini kullanarak kullanıcıya yardımcı olmaya çalışır.
