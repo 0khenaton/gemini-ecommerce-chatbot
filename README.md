@@ -1,7 +1,7 @@
 ````markdown
 # 🛒 E-Ticaret Destek Chatbot (Gemini RAG)
 
-**[➡️ CANLI DEMOYU DENEMEK İÇİN TIKLAYIN ⬅️](https://0khenaton-gemini-ecommerce-chatbot.streamlit.app)**
+**[➡️ CANLI DEMOYU DENEMEK İÇİN TIKLAYIN ⬅️](https://gemini-ecommerce-chatbot-btjfkg2rttjkqefkjqykzt.streamlit.app)**
 
 Bu proje, Google'ın en güncel `gemini-2.5-flash` modelini ve RAG (Retrieval-Augmented Generation) tekniğini kullanarak oluşturulmuş, Streamlit tabanlı bir e-ticaret destek asistanıdır.
 
